@@ -1,0 +1,6 @@
+AND
+OR
+NOT
+and
+or
+not
